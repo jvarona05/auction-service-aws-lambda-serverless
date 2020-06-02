@@ -9,3 +9,4 @@ Microservices to handle auctions
 * AWS CloudFormation
 * AWS DynamoDB
 * AWS SQS(Simple Queue Service)
+* AWS API Gateway
